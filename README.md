@@ -2,6 +2,7 @@
 
 [T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디입니다
 
+<br>
 
 ### [Course]
 
