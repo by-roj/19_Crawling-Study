@@ -6,9 +6,9 @@
 
 ### [Course]
 
-- 1강 : 파이썬 크롤링의 이해
+- ~~1강 : 파이썬 크롤링의 이해~~
 - 2강 : Selenium WebDriver 이해
-- 3강 : Selenium 모듈 실습 1 (검색어 입력)
+- 3강 : Selenium 모듈 실습 1 (검색어 입력)s
 - 4강 : Selenium 모듈 실습 2 (게시판 스캔)
 - 5강 : Selenium 모듈 실습 3 (메타정보 획득)
 - 6강 : Selenium 모듈 실습 4 (상세페이지 방문)
