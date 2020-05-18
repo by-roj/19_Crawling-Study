@@ -4,7 +4,7 @@
 
 <br>
 
-### [Course]
+## 📚 Courses
 
 - ~~1강 : 파이썬 크롤링의 이해~~
 - 2강 : Selenium WebDriver 이해
